@@ -1,6 +1,6 @@
 // Lista de números:
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 
 // Armazenado elementos do HTML:
 const userInput = document.querySelector("#input-user");
